@@ -2,7 +2,7 @@
 
 _This is a demo web page for using git._
 
-## How to remove branch locally and remotely
+## 1. How to remove branch locally and remotely
 
 - locally if fully merged
   <br>
@@ -14,3 +14,7 @@ _This is a demo web page for using git._
   <br>
   `git push <remote-name> -d <branch-name>`
 
+## 2. How to checkout another branch without commit changes
+
+1. `git stash <stash-name>` 
+2. `git checkout <new-branch-name>`
