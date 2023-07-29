@@ -2,6 +2,8 @@
 
 _This is a demo web page for using git._
 
+![Info](./img.png)
+
 ## 1. How to remove branch locally and remotely
 
 - locally if fully merged
