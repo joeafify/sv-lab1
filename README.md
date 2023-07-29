@@ -18,3 +18,7 @@ _This is a demo web page for using git._
 
 1. `git stash <stash-name>` 
 2. `git checkout <new-branch-name>`
+
+## 3. How to list tags
+
+- `git tag`
