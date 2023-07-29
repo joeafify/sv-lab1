@@ -22,3 +22,12 @@ _This is a demo web page for using git._
 ## 3. How to list tags
 
 - `git tag`
+
+## 4. How to delete tag  locally and remotely
+
+- locally 
+  <br>
+  `git tag -d <tag-name>`
+- remotely
+  <br>
+  `git push origin -d <tag-name>`
